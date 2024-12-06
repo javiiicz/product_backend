@@ -1,0 +1,702 @@
+[
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Black",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Silver",
+        "Price": "$1000",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Silver",
+        "Price": "$500",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Silver",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$700",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Silver",
+        "Price": "$1000",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Red",
+        "Price": "$500",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Silver",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Silver",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Black",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$1000",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Silver",
+        "Price": "$500",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Black",
+        "Price": "$1000",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Black",
+        "Price": "$1000",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Silver",
+        "Price": "$1000",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$700",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Silver",
+        "Price": "$500",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$1000",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Silver",
+        "Price": "$500",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$1000",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$700",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Red",
+        "Price": "$500",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$1000",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Silver",
+        "Price": "$500",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$700",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Silver",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Black",
+        "Price": "$1000",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Silver",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$500",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$500",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$1000",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Silver",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Silver",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Aluminum",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Black",
+        "Price": "$700",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Silver",
+        "Price": "$500",
+        "Build Material": "Titanium",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Red",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Aluminum",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Silver",
+        "Price": "$700",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "5.4\"",
+        "Color": "Silver",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "Yes"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$700",
+        "Build Material": "Titanium",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.2\"",
+        "Color": "Black",
+        "Price": "$500",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Red",
+        "Price": "$500",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    },
+    {
+        "Screen Size": "6.5\"",
+        "Color": "Red",
+        "Price": "$1000",
+        "Build Material": "Plastic",
+        "AI Integration": "No"
+    }
+]
